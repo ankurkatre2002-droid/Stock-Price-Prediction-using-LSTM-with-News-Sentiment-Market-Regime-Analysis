@@ -1,0 +1,27 @@
+# Data files (too large for git)
+data/
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+*.h5
+*.pt
+*.bin
+*.safetensors
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (optional — remove these lines if you want to track plots)
+results/*.png
