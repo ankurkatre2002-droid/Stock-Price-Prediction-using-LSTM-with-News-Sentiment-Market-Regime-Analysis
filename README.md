@@ -88,7 +88,7 @@ djia-sentiment-lstm/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/djia-sentiment-lstm.git
+git clone https://github.com/ankurkatre2002-droid/djia-sentiment-lstm.git
 cd djia-sentiment-lstm
 
 # 2. Install dependencies
@@ -130,8 +130,11 @@ Sequential([
 
 ## Author
 
-**Ankur** | M.Tech Data Science & AI, VIT Bhopal  
-[LinkedIn](https://linkedin.com/in/<your-profile>) · [GitHub](https://github.com/<your-username>)
+**Ankur Katre** | M.Tech Data Science & AI, VIT Bhopal  
+[LinkedIn](https://www.linkedin.com/in/ankur-katre-aa7a41372) · [GitHub](https://github.com/ankurkatre2002-droid)
 
 ---
 
+## License
+
+MIT License — free to use with attribution.
