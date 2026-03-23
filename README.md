@@ -134,7 +134,3 @@ Sequential([
 [LinkedIn](https://www.linkedin.com/in/ankur-katre-aa7a41372) · [GitHub](https://github.com/ankurkatre2002-droid)
 
 ---
-
-## License
-
-MIT License — free to use with attribution.
